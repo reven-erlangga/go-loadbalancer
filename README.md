@@ -1,2 +1,2 @@
-# go-loadbalancer
+# Load Balancer
 Load balancer using golang
